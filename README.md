@@ -13,4 +13,6 @@
 - **Softwares**
   
 [![My Skills2](https://skillicons.dev/icons?i=blender,discord,figma,github,notion,vscode,ps,pr)](https://skillicons.dev)
+
+
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
