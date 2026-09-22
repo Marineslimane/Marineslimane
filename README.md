@@ -6,4 +6,4 @@
 [![My Skills1](https://skillicons.dev/icons?i=js,html,css,c,cpp,latex,ocaml,py)](https://skillicons.dev)
 - **Softwares**
   
-[![My Skills2](https://skillicons.dev/icons?i=blender,discord,figma,github,notion,vscode)](https://skillicons.dev)
+[![My Skills2](https://skillicons.dev/icons?i=blender,discord,figma,github,notion,vscode,ps,pr)](https://skillicons.dev)
